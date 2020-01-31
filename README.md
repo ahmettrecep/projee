@@ -1,0 +1,2 @@
+# eczane
+ Örnek Eczane Otomasyonu
